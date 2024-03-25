@@ -1,6 +1,9 @@
 {
   "name": "notes-app",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.14.2"
+  },
   "description": "Notes app built with the MERN stack.",
   "main": "server.js",
   "scripts": {
